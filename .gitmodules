@@ -1,0 +1,123 @@
+[submodule ".archive/aws-pyccd"]
+	path = .archive/aws-pyccd
+	url = https://github.com/davidvhill/aws-pyccd.git
+[submodule ".archive/clj-gdal"]
+	path = .archive/clj-gdal
+	url = https://github.com/Element84/clj-gdal.git
+[submodule ".archive/lcmap-blackmagic"]
+	path = .archive/lcmap-blackmagic
+	url = https://github.com/USGS-EROS/lcmap-blackmagic.git
+[submodule ".archive/lcmap-ccdc"]
+	path = .archive/lcmap-ccdc
+	url = https://github.com/USGS-EROS/lcmap-ccdc.git
+[submodule ".archive/lcmap-change-detection-c"]
+	path = .archive/lcmap-change-detection-c
+	url = https://github.com/USGS-EROS/lcmap-change-detection-c.git
+[submodule ".archive/lcmap-changes"]
+	path = .archive/lcmap-changes
+	url = https://github.com/USGS-EROS/lcmap-changes.git
+[submodule ".archive/lcmap-chipmunk"]
+	path = .archive/lcmap-chipmunk
+	url = https://github.com/USGS-EROS/lcmap-chipmunk.git
+[submodule ".archive/lcmap-cli"]
+	path = .archive/lcmap-cli
+	url = https://github.com/USGS-EROS/lcmap-cli.git
+[submodule ".archive/lcmap-client-clj"]
+	path = .archive/lcmap-client-clj
+	url = https://github.com/USGS-EROS/lcmap-client-clj.git
+[submodule ".archive/lcmap-client-docs"]
+	path = .archive/lcmap-client-docs
+	url = https://github.com/USGS-EROS/lcmap-client-docs.git
+[submodule ".archive/lcmap-client-py"]
+	path = .archive/lcmap-client-py
+	url = https://github.com/USGS-EROS/lcmap-client-py.git
+[submodule ".archive/lcmap-commons"]
+	path = .archive/lcmap-commons
+	url = https://github.com/USGS-EROS/lcmap-commons.git
+[submodule ".archive/lcmap-config"]
+	path = .archive/lcmap-config
+	url = https://github.com/USGS-EROS/lcmap-config.git
+[submodule ".archive/lcmap-data"]
+	path = .archive/lcmap-data
+	url = https://github.com/USGS-EROS/lcmap-data.git
+[submodule ".archive/lcmap-dockerfiles"]
+	path = .archive/lcmap-dockerfiles
+	url = https://github.com/USGS-EROS/lcmap-dockerfiles.git
+[submodule ".archive/lcmap-gaia"]
+	path = .archive/lcmap-gaia
+	url = https://github.com/USGS-EROS/lcmap-gaia.git
+[submodule ".archive/lcmap-giraffe"]
+	path = .archive/lcmap-giraffe
+	url = https://github.com/USGS-EROS/lcmap-giraffe.git
+[submodule ".archive/lcmap-ingest-py"]
+	path = .archive/lcmap-ingest-py
+	url = https://github.com/USGS-EROS/lcmap-ingest-py.git
+[submodule ".archive/lcmap-landsat"]
+	path = .archive/lcmap-landsat
+	url = https://github.com/USGS-EROS/lcmap-landsat.git
+[submodule ".archive/lcmap-logger"]
+	path = .archive/lcmap-logger
+	url = https://github.com/USGS-EROS/lcmap-logger.git
+[submodule ".archive/lcmap-mastodon"]
+	path = .archive/lcmap-mastodon
+	url = https://github.com/USGS-EROS/lcmap-mastodon.git
+[submodule ".archive/lcmap-merlin"]
+	path = .archive/lcmap-merlin
+	url = https://github.com/USGS-EROS/lcmap-merlin.git
+[submodule ".archive/lcmap-model-wrapper"]
+	path = .archive/lcmap-model-wrapper
+	url = https://github.com/USGS-EROS/lcmap-model-wrapper.git
+[submodule ".archive/lcmap-nautilus"]
+	path = .archive/lcmap-nautilus
+	url = https://github.com/USGS-EROS/lcmap-nautilus.git
+[submodule ".archive/lcmap-nemo"]
+	path = .archive/lcmap-nemo
+	url = https://github.com/USGS-EROS/lcmap-nemo.git
+[submodule ".archive/lcmap-oxen"]
+	path = .archive/lcmap-oxen
+	url = https://github.com/USGS-EROS/lcmap-oxen.git
+[submodule ".archive/lcmap-pyccd"]
+	path = .archive/lcmap-pyccd
+	url = https://github.com/USGS-EROS/lcmap-pyccd.git
+[submodule ".archive/lcmap-pyccd-worker"]
+	path = .archive/lcmap-pyccd-worker
+	url = https://github.com/USGS-EROS/lcmap-pyccd-worker.git
+[submodule ".archive/lcmap-pyclass"]
+	path = .archive/lcmap-pyclass
+	url = https://github.com/USGS-EROS/lcmap-pyclass.git
+[submodule ".archive/lcmap-rest"]
+	path = .archive/lcmap-rest
+	url = https://github.com/USGS-EROS/lcmap-rest.git
+[submodule ".archive/lcmap-see"]
+	path = .archive/lcmap-see
+	url = https://github.com/USGS-EROS/lcmap-see.git
+[submodule ".archive/lcmap-services"]
+	path = .archive/lcmap-services
+	url = https://github.com/USGS-EROS/lcmap-services.git
+[submodule ".archive/lcmap-spark"]
+	path = .archive/lcmap-spark
+	url = https://github.com/USGS-EROS/lcmap-spark.git
+[submodule ".archive/lcmap-system"]
+	path = .archive/lcmap-system
+	url = https://github.com/USGS-EROS/lcmap-system.git
+[submodule ".archive/lcmap-tap"]
+	path = .archive/lcmap-tap
+	url = https://github.com/USGS-EROS/lcmap-tap.git
+[submodule ".archive/lcmap-test-data"]
+	path = .archive/lcmap-test-data
+	url = https://github.com/USGS-EROS/lcmap-test-data.git
+[submodule ".archive/lcmap-test-notebooks"]
+	path = .archive/lcmap-test-notebooks
+	url = https://github.com/USGS-EROS/lcmap-test-notebooks.git
+[submodule ".archive/lcmap-tools"]
+	path = .archive/lcmap-tools
+	url = https://github.com/USGS-EROS/lcmap-tools.git
+[submodule ".archive/matlab-ccdc"]
+	path = .archive/matlab-ccdc
+	url = https://github.com/lelegan/matlab-ccdc.git
+[submodule ".archive/ring-problem"]
+	path = .archive/ring-problem
+	url = https://github.com/USGS-EROS/ring-problem.git
+[submodule ".archive/weld"]
+	path = .archive/weld
+	url = https://github.com/USGS-EROS/WELD-tiling-reference.git
